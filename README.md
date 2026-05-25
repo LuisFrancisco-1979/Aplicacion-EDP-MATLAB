@@ -1,2 +1,13 @@
-# Aplicacion-EDP-MATLAB
-Aplicación interactiva para resolver numéricamente EDP de segundo orden en MATLAB App Designer
+# Aplicación interactiva para EDP de segundo orden
+
+Aplicación desarrollada en MATLAB App Designer.
+
+Incluye métodos numéricos para:
+- EDP elípticas
+- EDP parabólicas
+- EDP hiperbólicas
+
+Archivo principal:
+- TFM_Luis_Villacis.mlapp
+
+Desarrollado como Trabajo Fin de Máster.
