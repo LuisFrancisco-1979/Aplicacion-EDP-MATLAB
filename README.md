@@ -2,7 +2,7 @@
 
 Aplicación desarrollada en MATLAB App Designer.
 
-Incluye métodos numéricos para:
+Incluye métodos numéricos (diferencias finitas) para:
 - EDP elípticas
 - EDP parabólicas
 - EDP hiperbólicas
@@ -10,4 +10,4 @@ Incluye métodos numéricos para:
 Archivo principal:
 - TFM_Luis_Villacis.mlapp
 
-Desarrollado como Trabajo Fin de Máster.
+Desarrollado como Trabajo de Fin de Máster.
