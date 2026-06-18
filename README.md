@@ -8,6 +8,6 @@ Incluye métodos numéricos (diferencias finitas) para:
 - EDP hiperbólicas
 
 Archivo principal:
-- SolverEDP2.mlapp
+- SolverEDP2_4.mlapp
 
 Desarrollado como Trabajo de Fin de Máster.
