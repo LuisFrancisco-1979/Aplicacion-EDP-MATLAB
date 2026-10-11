@@ -13,7 +13,7 @@ La aplicación permite configurar el dominio, las condiciones iniciales y de con
 ## Archivos del proyecto
 
 **Archivo principal**
-- `SolverEDP2_101.mlapp`
+- `SolverEDP2_102.mlapp`
 
 **Archivos complementarios**
 - Figuras identificadoras utilizadas por la interfaz de la aplicación.
