@@ -22,7 +22,7 @@ La aplicación permite configurar el dominio, las condiciones iniciales y de con
 
 1. Descargue el archivo principal y todos los archivos complementarios del repositorio.
 2. Guarde todos los archivos en una misma carpeta.
-3. Abra `SolverEDP2_101.mlapp` en **MATLAB**.
+3. Abra `SolverEDP2_102.mlapp` en **MATLAB**.
 4. Ejecute la aplicación y configure el problema de interés mediante la interfaz gráfica.
 
 ## Trabajo académico
